@@ -6,8 +6,8 @@
   min-width: 100px;
   height: 40px;
   font-weight: 500;
-  background-color: rgb(44, 183, 238);
-  color: white;
+  background-color: rgb(238, 44, 228);
+  color: #000;
 
   border: none;
   border-radius: 8px;
@@ -20,9 +20,9 @@
   margin-right: auto;
 
   font-weight: 700;
-  color: Black;
+  color: #000;
 }
 
 label:first-child {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
